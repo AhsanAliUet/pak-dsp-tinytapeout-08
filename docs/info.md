@@ -9,12 +9,9 @@ You can also include images in this folder and reference them in the markdown. E
 
 ## How it works
 
-Explain how your project works
+This is a signal processor and works like a charm.
 
 ## How to test
 
-Explain how to use your project
+There is a testbench in the folder `test` with the name test.py. We can test it using `make`. 
 
-## External hardware
-
-List external hardware used in your project (e.g. PMOD, LED display, etc), if any
